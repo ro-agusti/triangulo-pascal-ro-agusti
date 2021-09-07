@@ -1,0 +1,14 @@
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\bin\Debug\netcoreapp3.1\app-triangulo-pascal.exe
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\bin\Debug\netcoreapp3.1\app-triangulo-pascal.deps.json
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\bin\Debug\netcoreapp3.1\app-triangulo-pascal.runtimeconfig.json
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\bin\Debug\netcoreapp3.1\app-triangulo-pascal.runtimeconfig.dev.json
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\bin\Debug\netcoreapp3.1\app-triangulo-pascal.dll
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\bin\Debug\netcoreapp3.1\app-triangulo-pascal.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\obj\Debug\netcoreapp3.1\app-triangulo-pascal.csproj.AssemblyReference.cache
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\obj\Debug\netcoreapp3.1\app-triangulo-pascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\obj\Debug\netcoreapp3.1\app-triangulo-pascal.AssemblyInfoInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\obj\Debug\netcoreapp3.1\app-triangulo-pascal.AssemblyInfo.cs
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\obj\Debug\netcoreapp3.1\app-triangulo-pascal.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\obj\Debug\netcoreapp3.1\app-triangulo-pascal.dll
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\obj\Debug\netcoreapp3.1\app-triangulo-pascal.pdb
+C:\Users\Rocio\Documents\PROGRAMACION\.NET\C#\PROBANDO1\app-triangulo-pascal\app-triangulo-pascal\obj\Debug\netcoreapp3.1\app-triangulo-pascal.genruntimeconfig.cache

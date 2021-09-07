@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "app-triangulo-pascal/1.0.0": {
+        "runtime": {
+          "app-triangulo-pascal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "app-triangulo-pascal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
